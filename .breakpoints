@@ -1,0 +1,20 @@
+{
+  "files": {
+    "company1.js": [
+      {
+        "id": "37f574b2-8897-4f55-9cff-7958b2fc333a",
+        "line": 5,
+        "version": 2,
+        "index": 82
+      }
+    ],
+    "index.js": [
+      {
+        "id": "54c2ad52-a1b8-4764-a969-d0e8079ef91d",
+        "line": 6,
+        "version": 1,
+        "index": 104
+      }
+    ]
+  }
+}
